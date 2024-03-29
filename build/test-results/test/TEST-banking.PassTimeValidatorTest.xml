@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.PassTimeValidatorTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-12-04T03:37:23" hostname="BIGTINTIN" time="0.003">
+  <properties/>
+  <testcase name="valid_command()" classname="banking.PassTimeValidatorTest" time="0.0"/>
+  <testcase name="valid_command_where_uppercase_is_used()" classname="banking.PassTimeValidatorTest" time="0.0"/>
+  <testcase name="invalid_command_to_pass_zero_month()" classname="banking.PassTimeValidatorTest" time="0.0"/>
+  <testcase name="invalid_command_to_pass_decimal_as_number_of_months()" classname="banking.PassTimeValidatorTest" time="0.0"/>
+  <testcase name="invalid_command_where_pass_is_spelled_incorrectly()" classname="banking.PassTimeValidatorTest" time="0.0"/>
+  <testcase name="invalid_command_where_number_of_months_is_more_than_60()" classname="banking.PassTimeValidatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

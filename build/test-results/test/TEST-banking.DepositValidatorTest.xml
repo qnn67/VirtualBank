@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.DepositValidatorTest" tests="17" skipped="0" failures="0" errors="0" timestamp="2022-12-04T03:37:23" hostname="BIGTINTIN" time="0.008">
+  <properties/>
+  <testcase name="invalid_deposit_command_where_deposit_is_misspelled()" classname="banking.DepositValidatorTest" time="0.001"/>
+  <testcase name="invalid_deposit_savings_command_where_amount_is_more_than_2500()" classname="banking.DepositValidatorTest" time="0.0"/>
+  <testcase name="invalid_deposit_command_where_account_is_not_in_bank()" classname="banking.DepositValidatorTest" time="0.0"/>
+  <testcase name="invalid_deposit_command_where_id_is_missing()" classname="banking.DepositValidatorTest" time="0.0"/>
+  <testcase name="invalid_deposit_command_where_id_is_not_a_number()" classname="banking.DepositValidatorTest" time="0.0"/>
+  <testcase name="invalid_deposit_command_where_amount_is_missing()" classname="banking.DepositValidatorTest" time="0.0"/>
+  <testcase name="invalid_deposit_checking_command_where_amount_is_more_than_1000()" classname="banking.DepositValidatorTest" time="0.0"/>
+  <testcase name="invalid_deposit_command_where_id_length_is_not_8()" classname="banking.DepositValidatorTest" time="0.0"/>
+  <testcase name="invalid_deposit_command_where_amount_is_not_a_number()" classname="banking.DepositValidatorTest" time="0.0"/>
+  <testcase name="valid_command_where_uppercase_is_included()" classname="banking.DepositValidatorTest" time="0.0"/>
+  <testcase name="invalid_deposit_cd_command()" classname="banking.DepositValidatorTest" time="0.0"/>
+  <testcase name="invalid_command_where_deposit_is_missing()" classname="banking.DepositValidatorTest" time="0.0"/>
+  <testcase name="valid_deposit_checking_command()" classname="banking.DepositValidatorTest" time="0.0"/>
+  <testcase name="valid_deposit_savings_command()" classname="banking.DepositValidatorTest" time="0.0"/>
+  <testcase name="invalid_deposit_command_where_amount_is_0()" classname="banking.DepositValidatorTest" time="0.0"/>
+  <testcase name="invalid_deposit_command_where_deposit_is_not_a_number()" classname="banking.DepositValidatorTest" time="0.001"/>
+  <testcase name="invalid_deposit_command_where_amount_is_negative()" classname="banking.DepositValidatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.BankTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2022-12-04T03:37:23" hostname="BIGTINTIN" time="0.005">
+  <properties/>
+  <testcase name="check_id_when_adding_one_account_to_bank()" classname="banking.BankTest" time="0.002"/>
+  <testcase name="check_balance_when_depositing_to_account()" classname="banking.BankTest" time="0.0"/>
+  <testcase name="bank_has_no_account_initially()" classname="banking.BankTest" time="0.0"/>
+  <testcase name="check_balance_when_withdrawing_from_account()" classname="banking.BankTest" time="0.0"/>
+  <testcase name="check_id_when_adding_two_accounts_to_bank()" classname="banking.BankTest" time="0.0"/>
+  <testcase name="check_apr_when_adding_one_account_to_bank()" classname="banking.BankTest" time="0.0"/>
+  <testcase name="check_apr_when_adding_two_accounts_to_bank()" classname="banking.BankTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

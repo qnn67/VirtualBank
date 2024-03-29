@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.WithdrawProcessorTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-12-04T03:37:23" hostname="BIGTINTIN" time="0.001">
+  <properties/>
+  <testcase name="valid_command()" classname="banking.WithdrawProcessorTest" time="0.0"/>
+  <testcase name="valid_command_where_enough_time_has_passed_for_savings_account()" classname="banking.WithdrawProcessorTest" time="0.0"/>
+  <testcase name="valid_command_where_only_withdraw_amount_available_in_account()" classname="banking.WithdrawProcessorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

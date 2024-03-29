@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.CreateProcessorTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-12-04T03:37:23" hostname="BIGTINTIN" time="0.001">
+  <properties/>
+  <testcase name="valid_create_command_where_checking_account_exists_in_bank()" classname="banking.CreateProcessorTest" time="0.0"/>
+  <testcase name="valid_create_command_where_cd_account_exists_in_bank()" classname="banking.CreateProcessorTest" time="0.001"/>
+  <testcase name="valid_create_command_where_savings_account_exists_in_bank()" classname="banking.CreateProcessorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

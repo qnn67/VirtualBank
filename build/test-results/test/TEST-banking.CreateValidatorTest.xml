@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.CreateValidatorTest" tests="25" skipped="0" failures="0" errors="0" timestamp="2022-12-04T03:37:23" hostname="BIGTINTIN" time="0.011">
+  <properties/>
+  <testcase name="invalid_command_where_account_type_is_not_a_string()" classname="banking.CreateValidatorTest" time="0.001"/>
+  <testcase name="valid_command_where_cd_amount_is_maximum()" classname="banking.CreateValidatorTest" time="0.0"/>
+  <testcase name="invalid_command_where_create_is_missing()" classname="banking.CreateValidatorTest" time="0.0"/>
+  <testcase name="invalid_command_where_id_is_missing()" classname="banking.CreateValidatorTest" time="0.0"/>
+  <testcase name="valid_command_where_cd_amount_is_minimum()" classname="banking.CreateValidatorTest" time="0.0"/>
+  <testcase name="invalid_command_where_account_already_exists()" classname="banking.CreateValidatorTest" time="0.0"/>
+  <testcase name="invalid_command_where_apr_is_out_of_range()" classname="banking.CreateValidatorTest" time="0.0"/>
+  <testcase name="invalid_command_where_account_type_is_missing()" classname="banking.CreateValidatorTest" time="0.0"/>
+  <testcase name="invalid_command_where_an_extra_parameter_is_given()" classname="banking.CreateValidatorTest" time="0.001"/>
+  <testcase name="invalid_create_cd_command_where_amount_is_out_of_range()" classname="banking.CreateValidatorTest" time="0.0"/>
+  <testcase name="valid_create_savings_command()" classname="banking.CreateValidatorTest" time="0.001"/>
+  <testcase name="invalid_command_where_apr_is_negative()" classname="banking.CreateValidatorTest" time="0.0"/>
+  <testcase name="valid_create_cd_command()" classname="banking.CreateValidatorTest" time="0.001"/>
+  <testcase name="invalid_create_cd_command_where_amount_is_negative()" classname="banking.CreateValidatorTest" time="0.0"/>
+  <testcase name="valid_command_where_uppercase_is_included()" classname="banking.CreateValidatorTest" time="0.0"/>
+  <testcase name="invalid_command_where_create_is_misspelled()" classname="banking.CreateValidatorTest" time="0.0"/>
+  <testcase name="invalid_command_where_account_type_is_incorrect()" classname="banking.CreateValidatorTest" time="0.001"/>
+  <testcase name="invalid_create_cd_command_where_amount_is_not_an_integer()" classname="banking.CreateValidatorTest" time="0.0"/>
+  <testcase name="valid_create_checking_command()" classname="banking.CreateValidatorTest" time="0.0"/>
+  <testcase name="invalid_command_where_apr_is_not_a_number()" classname="banking.CreateValidatorTest" time="0.001"/>
+  <testcase name="invalid_command_where_apr_is_missing()" classname="banking.CreateValidatorTest" time="0.0"/>
+  <testcase name="invalid_create_cd_command_where_amount_is_missing()" classname="banking.CreateValidatorTest" time="0.0"/>
+  <testcase name="invalid_command_where_id_is_not_integer()" classname="banking.CreateValidatorTest" time="0.0"/>
+  <testcase name="invalid_command_where_id_length_is_not_8()" classname="banking.CreateValidatorTest" time="0.0"/>
+  <testcase name="valid_command_where_apr_is_zero()" classname="banking.CreateValidatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

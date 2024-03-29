@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.WithdrawValidatorTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2022-12-04T03:37:23" hostname="BIGTINTIN" time="0.004">
+  <properties/>
+  <testcase name="valid_command()" classname="banking.WithdrawValidatorTest" time="0.0"/>
+  <testcase name="valid_command_where_uppercase_is_used()" classname="banking.WithdrawValidatorTest" time="0.0"/>
+  <testcase name="invalid_command_where_withdraw_is_spelled_incorrectly()" classname="banking.WithdrawValidatorTest" time="0.0"/>
+  <testcase name="valid_command_where_amount_is_zero()" classname="banking.WithdrawValidatorTest" time="0.001"/>
+  <testcase name="invalid_command_where_not_enough_time_passed_for_cd_account()" classname="banking.WithdrawValidatorTest" time="0.0"/>
+  <testcase name="invalid_command_where_not_withdrawing_full_amount_for_cd_account()" classname="banking.WithdrawValidatorTest" time="0.0"/>
+  <testcase name="invalid_command_where_id_is_not_an_integer()" classname="banking.WithdrawValidatorTest" time="0.0"/>
+  <testcase name="invalid_command_where_id_is_not_in_bank()" classname="banking.WithdrawValidatorTest" time="0.0"/>
+  <testcase name="invalid_command_where_id_length_is_not_8()" classname="banking.WithdrawValidatorTest" time="0.001"/>
+  <testcase name="invalid_command_where_not_enough_time_passed_for_savings_account()" classname="banking.WithdrawValidatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

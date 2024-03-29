@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.CheckingTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2022-12-04T03:37:23" hostname="BIGTINTIN" time="0.003">
+  <properties/>
+  <testcase name="check_balance_when_withdrawing_more_than_balance()" classname="banking.CheckingTest" time="0.0"/>
+  <testcase name="withdrawal_works_with_any_valid_amount()" classname="banking.CheckingTest" time="0.0"/>
+  <testcase name="depositing_twice_works()" classname="banking.CheckingTest" time="0.001"/>
+  <testcase name="withdrawing_twice_works()" classname="banking.CheckingTest" time="0.0"/>
+  <testcase name="withdrawal_works()" classname="banking.CheckingTest" time="0.0"/>
+  <testcase name="deposit_maximum_mount_is_correct()" classname="banking.CheckingTest" time="0.0"/>
+  <testcase name="depositing_zero_works()" classname="banking.CheckingTest" time="0.0"/>
+  <testcase name="deposit_amount_is_correct()" classname="banking.CheckingTest" time="0.001"/>
+  <testcase name="balance_is_zero_when_account_is_created()" classname="banking.CheckingTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.AccountTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2022-12-04T03:37:23" hostname="BIGTINTIN" time="0.021">
+  <properties/>
+  <testcase name="withdrawal_works_with_any_valid_amount()" classname="banking.AccountTest" time="0.011"/>
+  <testcase name="withdrawing_all_of_the_balance()" classname="banking.AccountTest" time="0.001"/>
+  <testcase name="depositing_twice_works()" classname="banking.AccountTest" time="0.004"/>
+  <testcase name="withdrawing_twice_works()" classname="banking.AccountTest" time="0.001"/>
+  <testcase name="withdrawal_works()" classname="banking.AccountTest" time="0.0"/>
+  <testcase name="depositing_zero_works()" classname="banking.AccountTest" time="0.0"/>
+  <testcase name="deposit_amount_is_correct()" classname="banking.AccountTest" time="0.0"/>
+  <testcase name="withdrawing_more_than_balance_works()" classname="banking.AccountTest" time="0.001"/>
+  <testcase name="balance_is_zero_when_account_is_created()" classname="banking.AccountTest" time="0.0"/>
+  <testcase name="withdrawing_zero_works()" classname="banking.AccountTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

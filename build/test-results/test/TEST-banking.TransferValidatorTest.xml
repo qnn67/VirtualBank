@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.TransferValidatorTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-12-04T03:37:23" hostname="BIGTINTIN" time="0.001">
+  <properties/>
+  <testcase name="valid_command()" classname="banking.TransferValidatorTest" time="0.0"/>
+  <testcase name="invalid_command_where_transfer_is_spelled_incorrectly()" classname="banking.TransferValidatorTest" time="0.0"/>
+  <testcase name="valid_command_where_uppercase_is_used()" classname="banking.TransferValidatorTest" time="0.001"/>
+  <testcase name="invalid_command_where_target_account_is_CD()" classname="banking.TransferValidatorTest" time="0.0"/>
+  <testcase name="invalid_command_where_account_does_not_exist_in_bank()" classname="banking.TransferValidatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

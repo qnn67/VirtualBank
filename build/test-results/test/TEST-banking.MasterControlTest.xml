@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.MasterControlTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-12-04T03:37:23" hostname="BIGTINTIN" time="0.033">
+  <properties/>
+  <testcase name="sample_make_sure_this_passes_unchanged_or_you_will_fail()" classname="banking.MasterControlTest" time="0.027"/>
+  <testcase name="typo_in_create_command_is_invalid()" classname="banking.MasterControlTest" time="0.0"/>
+  <testcase name="valid_to_deposit_account()" classname="banking.MasterControlTest" time="0.001"/>
+  <testcase name="invalid_to_create_account_with_same_ID()" classname="banking.MasterControlTest" time="0.003"/>
+  <testcase name="typo_in_deposit_command_is_invalid()" classname="banking.MasterControlTest" time="0.0"/>
+  <testcase name="two_typo_commands_both_invalid()" classname="banking.MasterControlTest" time="0.0"/>
+  <system-out><![CDATA[[Checking 12345678 0.00 1.00, Create checking 12345678 2.0]]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

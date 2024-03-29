@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.DepositProcessorTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-12-04T03:37:23" hostname="BIGTINTIN" time="0.001">
+  <properties/>
+  <testcase name="valid_deposit_command_where_balance_of_existing_account_is_updated_correctly()" classname="banking.DepositProcessorTest" time="0.0"/>
+  <testcase name="valid_deposit_command_where_balance_of_new_account_is_updated_correctly()" classname="banking.DepositProcessorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
